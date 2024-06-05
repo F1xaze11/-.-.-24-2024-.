@@ -1,0 +1,66 @@
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Chees.exe.config
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Chees.exe
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Chees.pdb
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\obj\Debug\Chees.csproj.AssemblyReference.cache
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\obj\Debug\Chees.Board.resources
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\obj\Debug\Chees.Properties.Resources.resources
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\obj\Debug\Chees.csproj.GenerateResource.cache
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\obj\Debug\Chees.csproj.CoreCompileInputs.cache
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\obj\Debug\Chees.exe
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\obj\Debug\Chees.pdb
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Pieces\images\black_bishop.png
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Pieces\images\black_king.png
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Pieces\images\black_knight.png
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Pieces\images\black_pawn.png
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Pieces\images\black_rook.png
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Pieces\images\white_bishop.png
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Pieces\images\white_king.png
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Pieces\images\white_knight.png
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Pieces\images\white_pawn.png
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Pieces\images\white_queen.png
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Pieces\images\white_rook.png
+D:\Учеба\00000\Курсова - Амбросов\Ambrosov_Сhess\Chees\bin\Debug\Pieces\images\black_queen.png
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Pieces\images\black_bishop.png
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Pieces\images\black_king.png
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Pieces\images\black_knight.png
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Pieces\images\black_pawn.png
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Pieces\images\black_queen.png
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Pieces\images\black_rook.png
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Pieces\images\white_bishop.png
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Pieces\images\white_king.png
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Pieces\images\white_knight.png
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Pieces\images\white_pawn.png
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Pieces\images\white_queen.png
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Pieces\images\white_rook.png
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Chees.exe.config
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Chees.exe
+D:\Учеба\00000\Курсова - Амбросов\Chees\bin\Debug\Chees.pdb
+D:\Учеба\00000\Курсова - Амбросов\Chees\obj\Debug\Chees.csproj.AssemblyReference.cache
+D:\Учеба\00000\Курсова - Амбросов\Chees\obj\Debug\Chees.Board.resources
+D:\Учеба\00000\Курсова - Амбросов\Chees\obj\Debug\Chees.Properties.Resources.resources
+D:\Учеба\00000\Курсова - Амбросов\Chees\obj\Debug\Chees.csproj.GenerateResource.cache
+D:\Учеба\00000\Курсова - Амбросов\Chees\obj\Debug\Chees.csproj.CoreCompileInputs.cache
+D:\Учеба\00000\Курсова - Амбросов\Chees\obj\Debug\Chees.exe
+D:\Учеба\00000\Курсова - Амбросов\Chees\obj\Debug\Chees.pdb
+C:\Users\adani\Downloads\Chees\bin\Debug\Pieces\images\black_bishop.png
+C:\Users\adani\Downloads\Chees\bin\Debug\Pieces\images\black_king.png
+C:\Users\adani\Downloads\Chees\bin\Debug\Pieces\images\black_knight.png
+C:\Users\adani\Downloads\Chees\bin\Debug\Pieces\images\black_pawn.png
+C:\Users\adani\Downloads\Chees\bin\Debug\Pieces\images\black_queen.png
+C:\Users\adani\Downloads\Chees\bin\Debug\Pieces\images\black_rook.png
+C:\Users\adani\Downloads\Chees\bin\Debug\Pieces\images\white_bishop.png
+C:\Users\adani\Downloads\Chees\bin\Debug\Pieces\images\white_king.png
+C:\Users\adani\Downloads\Chees\bin\Debug\Pieces\images\white_knight.png
+C:\Users\adani\Downloads\Chees\bin\Debug\Pieces\images\white_pawn.png
+C:\Users\adani\Downloads\Chees\bin\Debug\Pieces\images\white_queen.png
+C:\Users\adani\Downloads\Chees\bin\Debug\Pieces\images\white_rook.png
+C:\Users\adani\Downloads\Chees\bin\Debug\Chees.exe.config
+C:\Users\adani\Downloads\Chees\bin\Debug\Chees.exe
+C:\Users\adani\Downloads\Chees\bin\Debug\Chees.pdb
+C:\Users\adani\Downloads\Chees\obj\Debug\Chees.csproj.AssemblyReference.cache
+C:\Users\adani\Downloads\Chees\obj\Debug\Chees.Board.resources
+C:\Users\adani\Downloads\Chees\obj\Debug\Chees.Properties.Resources.resources
+C:\Users\adani\Downloads\Chees\obj\Debug\Chees.csproj.GenerateResource.cache
+C:\Users\adani\Downloads\Chees\obj\Debug\Chees.csproj.CoreCompileInputs.cache
+C:\Users\adani\Downloads\Chees\obj\Debug\Chees.exe
+C:\Users\adani\Downloads\Chees\obj\Debug\Chees.pdb
